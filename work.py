@@ -1,3 +1,4 @@
 def sum():
-    pass
+    return a+b
+
 
